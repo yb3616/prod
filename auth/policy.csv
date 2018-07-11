@@ -1,0 +1,6 @@
+p, admin, /*, *
+p, anonymous, /login, *
+p, anonymous, /register, *
+p, anonymous, /favicon.ico, GET
+p, member, /logout, *
+p, member, /member/*, *
